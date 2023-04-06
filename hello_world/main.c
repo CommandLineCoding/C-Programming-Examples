@@ -1,6 +1,10 @@
+// imports
 #include<stdio.h>
 
+// main function
 int main() {
-	printf("Hello, world!\n");
+	// printing Hello World
+	printf("Hello World\n");
+	// exit statement
 	return 0;
 }
